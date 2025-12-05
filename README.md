@@ -46,31 +46,31 @@ Optimization Algorithms – PSO / GA
 
 The optimized skin cancer detection system consists of five major components:
 
-1. Autoencoder
+1.Autoencoder
 
 Extracts compressed latent features from dermoscopic images
 
 Removes noise and highlights important skin lesion patterns
 
-2. Feature Reduction Module (PCA/UMAP)
+2.Feature Reduction Module (PCA/UMAP)
 
 Reduces dimensionality of encoded vectors
 
 Enhances model generalization and efficiency
 
-3. Bio-Inspired Neural Network (BINN)
+3.Bio-Inspired Neural Network (BINN)
 
 Classifies images into benign or malignant
 
 Inspired by biological neural processing for improved robustness
 
-4. Prediction & Interpretation Layer
+4.Prediction & Interpretation Layer
 
 Displays diagnosis with confidence score
 
 Optional visualization to highlight relevant lesion regions
 
-5. Evaluation Module
+5.Evaluation Module
 
 Generates Accuracy, Precision, Recall, F1-Score, ROC-AUC
 
@@ -100,11 +100,11 @@ Compares predicted vs actual outcomes with visual graphs
 
 
 ## RESULTS AND IMPACT:
-Detection Accuracy:
+* Detection Accuracy:
 
 Achieves high accuracy (e.g., 92–96% depending on dataset and preprocessing)
 
-Clinical Benefits:
+* Clinical Benefits:
 
 Supports dermatologists with fast, preliminary screening
 
@@ -112,13 +112,13 @@ Enables early melanoma detection
 
 Enhances decision-making with interpretable outputs
 
-Operational Impact:
+* Operational Impact:
 
 Fast and lightweight model suitable for clinics, screening centers, and mobile health apps
 
 Reduces dependence on very large training datasets
 
-Innovation:
+* Innovation:
 
 Combines unsupervised feature extraction with biologically inspired classification
 
