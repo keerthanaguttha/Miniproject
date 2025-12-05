@@ -10,19 +10,19 @@ The optimised skin cancer detection system shown in this project combines a Bio-
 
 * Image-Based Diagnosis: Works directly with dermoscopic lesion images for classification.
 
-*Autoencoder Feature Extraction: Learns compact, noise-free latent features from raw images.
+* Autoencoder Feature Extraction: Learns compact, noise-free latent features from raw images.
 
-*Bio-Inspired Neural Network (BINN): Utilizes biologically inspired principles (e.g., spiking networks / reservoir computing) for robust classification.
+* Bio-Inspired Neural Network (BINN): Utilizes biologically inspired principles (e.g., spiking networks / reservoir computing) for robust classification.
 
-*Dimensionality Reduction: PCA/UMAP improves model speed and performance by reducing redundant features.
+* Dimensionality Reduction: PCA/UMAP improves model speed and performance by reducing redundant features.
 
-*Interpretable Output: Provides class labels, confidence scores, and optional visualization of important lesion regions.
+* Interpretable Output: Provides class labels, confidence scores, and optional visualization of important lesion regions.
 
-*High Efficiency: Lightweight architecture enables fast inference on regular hardware.
+* High Efficiency: Lightweight architecture enables fast inference on regular hardware.
 
-*Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix, ROC-AUC.
+* Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix, ROC-AUC.
 
-*Scalable Design: Can be extended to multi-class skin lesion prediction in future work.
+* Scalable Design: Can be extended to multi-class skin lesion prediction in future work.
 
 ## REQUIREMENTS:
 
